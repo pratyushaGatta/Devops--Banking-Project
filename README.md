@@ -76,7 +76,9 @@ Design, deploy and automate a secure banking application that demonstrates enter
 
 <p align="center">
 
-![Architecture](docs/Architecture/Solution-Architecture.png)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f56bc78-31da-460f-b9f8-485b7fdeac66" />
+
 
 </p>
 
