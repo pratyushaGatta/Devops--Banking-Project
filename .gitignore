@@ -42,3 +42,10 @@ node_modules/
 .env
 .env.local
 .env.*.local
+
+### Logs ###
+backend-log.txt
+*.log
+
+### React Build ###
+web-ui/dist/Remove-Item backend-log.txt
